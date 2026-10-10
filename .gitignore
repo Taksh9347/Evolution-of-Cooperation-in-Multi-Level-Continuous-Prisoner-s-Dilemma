@@ -1,0 +1,13 @@
+﻿# Virtual Environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Simulation outputs and figures
+results/
+figures/
